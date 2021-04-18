@@ -1,4 +1,6 @@
-### Wander Vilhalva Domingos - [Analista de Sistemas]
+### Wander Vilhalva Domingos - WVDomingos
+- Bacharel em Sistemas de Informação pelo Instituto Federal do Espírito Santo - IFES Campus Cachoeiro de Itapemirim - ES <br />
+- Analista de Sistemas da Cooperativa de Laticínios Selita<br />
 
 ### Contatos:
 
@@ -42,3 +44,10 @@
 [medium]: https://medium.com/@wandervilhalvadomingos
 [linkedin]: https://www.linkedin.com/in/wandervilhalvadomingos/
 [instagram]: https://www.instagram.com/vilhalvadomingos/
+[facebook]: https://www.instagram.com/vilhalvadomingos/
+[twitter]: https://www.instagram.com/vilhalvadomingos/
+[spotify]: https://www.instagram.com/vilhalvadomingos/
+[youtube]: https://www.instagram.com/vilhalvadomingos/
+[email]: https://www.instagram.com/vilhalvadomingos/
+
+
