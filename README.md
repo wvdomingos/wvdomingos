@@ -1,4 +1,5 @@
 ### Wander Vilhalva Domingos - WVDomingos
+- Mestrando em Informática pela Universidade Federal do Espírito Santo - UFES <br />
 - Bacharel em Sistemas de Informação pelo Instituto Federal do Espírito Santo - IFES Campus Cachoeiro de Itapemirim - ES <br />
 - Analista de Sistemas da Cooperativa de Laticínios Selita<br />
 
@@ -7,6 +8,7 @@
 [<img align="left" alt="wvdomingos | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/wvdomingos83)
 [<img align="left" alt="wvdomingos | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />](https://twitter.com/wandervilhalva)
 [<img align="left" alt="wvdomingos | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/vilhalvadomingos/)
+[<img align="left" alt="wvdomingos | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/wordpress.svg" />](https://www.wvdomingos.com.br/)
 [<img align="left" alt="wvdomingos | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />](https://www.youtube.com/channel/UCv3-FH7FLH0NrMH872H3lSQ)
 [<img align="left" alt="wvdomingos | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@wandervilhalvadomingos)
 [<img align="left" alt="wvdomingos | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spotify.svg" />](https://open.spotify.com/user/12142827246?si=6a776770ac9f4fa7&nd=1)
@@ -39,6 +41,7 @@
 
 <img align="left" alt="Wander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wvdomingos&show_icons=true&hide_border=true" />
 
+[blog]: https://www.wvdomingos.com.br/
 [medium]: https://medium.com/@wandervilhalvadomingos
 [linkedin]: https://www.linkedin.com/in/wandervilhalvadomingos/
 [instagram]: https://www.instagram.com/vilhalvadomingos/
@@ -46,4 +49,3 @@
 [twitter]: https://twitter.com/wandervilhalva
 [spotify]: https://open.spotify.com/user/12142827246?si=6a776770ac9f4fa7&nd=1
 [youtube]: https://www.youtube.com/channel/UCv3-FH7FLH0NrMH872H3lSQ
-
