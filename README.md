@@ -4,14 +4,12 @@
 - Analista de Sistemas da Cooperativa de Laticínios Selita<br />
 
 ### Contatos:
-[<img align="left" alt="wvdomingos | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/wandervilhalvadomingos/)
-[<img align="left" alt="wvdomingos | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/wvdomingos83)
-[<img align="left" alt="wvdomingos | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />](https://twitter.com/wandervilhalva)
-[<img align="left" alt="wvdomingos | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/vilhalvadomingos/)
-[<img align="left" alt="wvdomingos | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/wordpress.svg" />](https://www.wvdomingos.com.br/)
-[<img align="left" alt="wvdomingos | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />](https://www.youtube.com/channel/UCv3-FH7FLH0NrMH872H3lSQ)
-[<img align="left" alt="wvdomingos | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@wandervilhalvadomingos)
-[<img align="left" alt="wvdomingos | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spotify.svg" />](https://open.spotify.com/user/12142827246?si=6a776770ac9f4fa7&nd=1)
+[<img align="left" alt="wvdomingos | Linkedin" width="22px" src="https://img.icons8.com/ios/250/FFFFFF/linkedin.png" />](https://www.linkedin.com/in/wandervilhalvadomingos/)
+[<img align="left" alt="wvdomingos | Facebook" width="22px" src="https://img.icons8.com/ios/250/FFFFFF/facebook-new.png" />](https://www.facebook.com/wvdomingos83)
+[<img align="left" alt="wvdomingos | Twitter" width="22px" src="https://img.icons8.com/ios/250/FFFFFF/twitter.png" />](https://twitter.com/wandervilhalva)
+[<img align="left" alt="wvdomingos | Instagram" width="22px" src="https://img.icons8.com/ios/250/FFFFFF/instagram-new.png" />](https://www.instagram.com/vilhalvadomingos/)
+[<img align="left" alt="wvdomingos | Blog" width="22px" src="https://img.icons8.com/ios/250/FFFFFF/home.png" />](https://www.wvdomingos.com.br/)
+[<img align="left" alt="wvdomingos | Youtube" width="22px" src="https://img.icons8.com/ios/250/FFFFFF/youtube-play.png" />](https://www.youtube.com/channel/UCv3-FH7FLH0NrMH872H3lSQ)
 
 <br />
 <br />
@@ -42,10 +40,8 @@
 <img align="left" alt="Wander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wvdomingos&show_icons=true&hide_border=true" />
 
 [blog]: https://www.wvdomingos.com.br/
-[medium]: https://medium.com/@wandervilhalvadomingos
 [linkedin]: https://www.linkedin.com/in/wandervilhalvadomingos/
 [instagram]: https://www.instagram.com/vilhalvadomingos/
 [facebook]: https://www.facebook.com/wvdomingos83
 [twitter]: https://twitter.com/wandervilhalva
-[spotify]: https://open.spotify.com/user/12142827246?si=6a776770ac9f4fa7&nd=1
 [youtube]: https://www.youtube.com/channel/UCv3-FH7FLH0NrMH872H3lSQ
