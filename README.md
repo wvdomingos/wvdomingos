@@ -22,13 +22,11 @@
 Fique à vontade para explorar meus projetos e repositórios. 
 
 ---
-
-<img align="left" alt="Wander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wvdomingos&show_icons=true&hide_border=true" />
-
----
 ## 📕 Últimos Posts 
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
+---
+<img align="left" alt="Wander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wvdomingos&show_icons=true&hide_border=true" />
